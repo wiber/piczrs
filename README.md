@@ -1,4 +1,6 @@
 piczrs
 ======
 
-nibbling on pictures
+nibbling on picture
+
+just a rest server on gae for now. 
